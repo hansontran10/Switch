@@ -1,4 +1,4 @@
-package com.switch.macroapp;
+package com.switchapp.macroapp;
 
 import com.getcapacitor.BridgeActivity;
 
